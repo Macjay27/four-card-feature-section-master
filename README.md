@@ -28,12 +28,12 @@ Users should be able to:
 
 - Desktop Screenshot
 
-![](./images/Web Version ScreenShot.png)
+![](images/Web Version ScreenShot.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://macjay27.github.io/four-card-feature-section-master/)
+- [Live site URL here](https://macjay27.github.io/four-card-feature-section-master/)
 
 
 
