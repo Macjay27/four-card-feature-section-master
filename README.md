@@ -28,7 +28,7 @@ Users should be able to:
 
 - Desktop Screenshot
 
-![](images/Web Version ScreenShot.png)
+![](./images/Web Version ScreenShot.png)
 
 
 ### Links
